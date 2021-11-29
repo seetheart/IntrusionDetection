@@ -49,7 +49,12 @@ The Use-Cases of my Project are:
 ![Architecture](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/Architecture.PNG)
 
 # PROTOTYPE
+![index](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/index.PNG)
+
 
 # REPORT
+![report1](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/report1.PNG)
+![report2](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/report2.PNG)
+
 
 The Complete report is uploaded and can be viwed from above.
