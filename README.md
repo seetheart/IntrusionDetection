@@ -1,5 +1,19 @@
 # CYBER-SPHERE
 An Intrusion Detection System based on Random Forest Classifier
+
+# ARCHIECTURE DIAGRAM
+![Architecture](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/Architecture.PNG)
+
+# PROTOTYPE
+![index](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/index.PNG)
+
+
+# REPORT
+![report1](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/report1.PNG)
+![report2](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/report2.PNG)
+
+
+
 # OVERVIEW
 
 A Website based Intrusion Destection System(IDS) aimed towards reducing cost of IDS for small to mid-sized businesses. An easily accessible and reliable tool which provides solutions to all the security needs. It works on the ML trained model and classifies data uploaded by the client into different categories, such as 'normal data', 'attack scenario'. It further gives subclassifications to attacks and provides relevant information and recommendations to deal with the problem.
@@ -45,16 +59,6 @@ The Use-Cases of my Project are:
         When client want to see his/her history the history corresponding to thier username is displayed.
         This is achieved using username as Foriegn Key between 'User' and 'History' Database.
 
-# ARCHIECTURE DIAGRAM
-![Architecture](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/Architecture.PNG)
-
-# PROTOTYPE
-![index](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/index.PNG)
-
-
-# REPORT
-![report1](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/report1.PNG)
-![report2](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/report2.PNG)
 
 
 The Complete report is uploaded and can be viwed from above.
