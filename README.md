@@ -46,6 +46,7 @@ The Use-Cases of my Project are:
         This is achieved using username as Foriegn Key between 'User' and 'History' Database.
 
 # ARCHIECTURE DIAGRAM
+![Architecture](https://github.com/seetheart/IntrusionDetectionSys/blob/main/IDS/static/Readme/Architecture.PNG)
 
 # PROTOTYPE
 
